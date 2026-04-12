@@ -110,12 +110,4 @@ streamlit run app.py
 ## 📌 Author
 
 **Priyal Parmar**
-M.Sc IT (Data Science) | AI/ML Enthusiast
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ and share it!
-
----
+parmarpriyal1603@gmail.com
