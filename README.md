@@ -36,7 +36,7 @@ AutoStream-AI-Agent/
 ├── data/
 │   └── knowledge.json   # Pricing & feature data
 │
-├── app.py               # Streamlit UI
+├── main.py               # Streamlit UI
 ├── requirements.txt
 ├── README.md
 ```
