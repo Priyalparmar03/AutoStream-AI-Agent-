@@ -1,0 +1,40 @@
+Core Technologies
+Python 3.10+ → Main programming language
+Streamlit → Interactive web UI for chatbot
+
+AI / NLP Layer
+sentence-transformers → For semantic understanding & embeddings
+transformers → NLP models & pipeline support
+huggingface_hub → Model loading & integration
+
+Data & Knowledge Layer
+JSON → Knowledge base (pricing, features)
+Custom RAG Logic → Retrieval-based response system
+
+
+Backend / Agent Architecture
+Modular Python architecture:
+intent.py → Intent detection
+rag.py → Response generation
+state.py → Session state management
+tools.py → Lead capture logic
+
+State Management
+Streamlit Session State → Maintains conversation flow
+⚙️ Development Tools
+Git → Version control
+GitHub → Code hosting & collaboration
+VS Code → Development environment
+
+Environment & Dependencies
+pip / conda → Package management
+Key libraries:
+torch
+faiss-cpu (optional for future RAG upgrade)
+
+
+(Future Scope / Upgrade Stack)
+FAISS → Vector database
+OpenAI / LLM APIs → Advanced responses
+Docker → Containerization
+Streamlit Cloud / AWS → Deployment
