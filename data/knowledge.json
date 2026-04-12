@@ -1,0 +1,42 @@
+{
+  "pricing": {
+    "basic": {
+      "price": "$29/month",
+      "features": ["10 videos/month", "720p resolution"]
+    },
+    "pro": {
+      "price": "$79/month",
+      "features": ["Unlimited videos", "4K resolution", "AI captions"]
+    }
+  },
+  "policies": {
+    "refund": "No refunds after 7 days",
+    "support": "24/7 support only for Pro plan"
+  },
+  "use_cases": {
+    "youtubers": "Automatically edit long videos into shorts",
+    "instagram_creators": "Generate reels with captions",
+    "podcasters": "Convert podcasts into highlight clips"
+  },
+  "features_detail": {
+    "ai_captions": "Auto-generate subtitles with high accuracy",
+    "auto_editing": "Cuts silence and highlights key moments",
+    "templates": "Pre-built video templates"
+  },
+  "faqs": {
+    "free_trial": "Yes, we offer a 3-day free trial",
+    "cancel": "You can cancel anytime from dashboard",
+    "export": "Videos can be exported in MP4 format"
+  },
+  "comparison": {
+    "basic_vs_pro": "Pro offers unlimited videos, 4K resolution, and AI captions while Basic is limited."
+  },
+  "onboarding": {
+    "steps": [
+      "Sign up",
+      "Upload video",
+      "Select template",
+      "Export edited video"
+    ]
+  }
+}
