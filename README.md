@@ -48,7 +48,7 @@ AutoStream-AI-Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AutoStream-AI-Agent.git
+git clone https://github.com//Priyalparmar03/AutoStream-AI-Agent.git
 cd AutoStream-AI-Agent
 ```
 
