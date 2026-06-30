@@ -110,4 +110,3 @@ streamlit run main.py
 ## 📌 Author
 
 **Priyal Parmar**
-parmarpriyal1603@gmail.com
