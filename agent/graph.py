@@ -25,6 +25,7 @@ def handle_lead(state):
         state.response = "Lead captured successfully!"
     return state
 
+
 # Graph
 builder = StateGraph(AgentState)
 
