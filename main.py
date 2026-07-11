@@ -29,7 +29,7 @@ if user_input:
     elif intent == "product_query":
         answer = answer_query(user_input)
         st.write(answer)
-
+        
     # High Intent
     elif intent == "high_intent":
 
